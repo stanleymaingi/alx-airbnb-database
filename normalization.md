@@ -1,4 +1,7 @@
-# Database Normalization â€“ Airbnb System (Up to 3NF)
+
+=======
+# Database Normalization – Airbnb System (Up to 3NF)
+>>>>>>> 14cf02e (Update requirements.md and add normalization documentation)
 
 ## 1. Introduction
 
@@ -83,4 +86,3 @@ The Airbnb database design:
 - Maintains data integrity
 - Supports scalability
 
-The schema is fully normalized up to Third Normal Form (3NF).
